@@ -73,13 +73,13 @@ Then try ONE of:
 As a sanity check check the server using a web browser, curl, or wget. On the radio there is likely ONLY wget.
 For example in a web browser on the server machine open http://localhost
 
-On squeezebox, assuming host/dns is udpated to your server:
+On squeezebox, assuming host/dns is updated to your server:
 
     wget -O -  http://config.logitechmusic.com
 
 Further sanity check is to pull down the firmware to make sure it's all present.
 
-Then reinitiate the firmware update on the radio.
+Then re-initiate the firmware update on the radio.
 
 If already connected via ssh, monitor progress in /var/log/messages, e.g.:
 
