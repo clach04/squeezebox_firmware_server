@@ -11,6 +11,10 @@ Originally written for https://forums.slimdevices.com/forum/user-forums/squeezeb
 For most uses cases this script/tool is NOT needed.
 Instead rely on the Logitech server and/or your local LMS / Logitech Media Server / SlimServer / SqueezeCenter / Squeezebox Server.
 
+Regular firmware update options/instructions:
+  * https://lms-community.github.io/reference/custom-firmware/
+  * community firmware locatin https://sourceforge.net/projects/lmsclients/files/squeezeos/
+
 If that's not possible for any reason this maybe a solution.
 
 ## Overview
