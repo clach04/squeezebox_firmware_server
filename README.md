@@ -9,7 +9,7 @@ Use at your own risk.
 Originally written for https://forums.slimdevices.com/forum/user-forums/squeezebox-radio/1679073-factory-reset-stuck-logitech-ue-smart-radio?p=1681965#post1681965
 
 For most uses cases this script/tool is NOT needed.
-Instead rely on the Logitech server and/or your local LMS / Logitech Media Server / SlimServer / SqueezeCenter / Squeezebox Server.
+Instead rely on the Logitech server and/or your [local LMS / Logitech Media Server / SlimServer / SqueezeCenter / Squeezebox Server](https://github.com/LMS-Community/slimserver).
 
 Regular firmware update options/instructions:
   * https://lms-community.github.io/reference/custom-firmware/
